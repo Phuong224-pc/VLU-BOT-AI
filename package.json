@@ -1,0 +1,14 @@
+{
+  "name": "vlu-bot-ai",
+  "version": "2.0.0",
+  "description": "VLU Smart Assistant - Fullstack React + Node.js AI Platform",
+  "scripts": {
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "dev": "node run-dev.mjs",
+    "build": "npm run build --prefix client",
+    "start": "npm start --prefix server"
+  },
+  "keywords": ["vlu", "chatbot", "ai", "react", "express"],
+  "author": "Trương Trần Thanh Phương"
+}

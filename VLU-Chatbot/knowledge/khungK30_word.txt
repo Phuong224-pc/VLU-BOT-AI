@@ -1,0 +1,89 @@
+KHUNG CTĐT K30 CNTT - TRÍCH TỪ FILE WORD NGƯỜI DÙNG CUNG CẤP
+
+Khối kiến thức: I. Kiến thức giáo dục đại cương
+71LAWG10012 - Pháp luật đại cương – 2 tín chỉ - Điều kiện học trước (không) 
+71ENVH10012 - Môi trường và con người – 2 tín chỉ - Điều kiện học trước (không) 
+71ITMA10104 - Toán cao cấp và ứng dụng – 4 tín chỉ - Điều kiện học trước (không) 
+71MATL10053 - Đại số tuyến tính và ứng dụng – 3 tín chỉ - Điều kiện học trước (không) 
+71SSK110023 - Kỹ năng công dân toàn cầu – 3 tín chỉ - Điều kiện học trước (không)
+Khối kiến thức: I.1. Lý luận chính trị
+71POLP10013 - Triết học Mác - Lênin – 3 tín chỉ - Điều kiện học trước (không) 
+71POLE10022 - Kinh tế chính trị Mác - Lênin – 2 tín chỉ - Điều kiện học trước: 71POLP10013 - Triết học Mác - Lênin 
+71POLS10032 - Chủ nghĩa xã hội khoa học – 2 tín chỉ - Điều kiện học trước: 71POLP10013 - Triết học Mác - Lênin 
+71POLH10042 - Tư tưởng Hồ Chí Minh – 2 tín chỉ - Điều kiện học trước: 71POLE10022 - Kinh tế chính trị Mác - Lênin; 71POLS10032 - Chủ nghĩa xã hội khoa học 
+71POLC10052 - Lịch sử Đảng Cộng sản Việt Nam – 2 tín chỉ - Điều kiện học trước: 71POLE10022 - Kinh tế chính trị Mác - Lênin; 71POLS10032 - Chủ nghĩa xã hội khoa học 
+Khối kiến thức: I.2. Ngoại ngữ
+71ENG110013 - Anh văn 1 (AV1) – 3 tín chỉ - Điều kiện học trước: 71ENG010012 - Anh văn dự bị (AV0) 
+71ENG210023 - Anh văn 2 (AV2) – 3 tín chỉ - Điều kiện học trước: 71ENG110013 - Anh văn 1 (AV1) 
+71ENG310033 - Anh văn 3 (AV3) – 3 tín chỉ - Điều kiện học trước: 71ENG210023 - Anh văn 2 (AV2) 
+71ENG410043 - Anh văn 4 (AV4) – 3 tín chỉ - Điều kiện học trước: 71ENG310033 - Anh văn 3 (AV3) 
+71ENG510053 - Anh văn 5 (AV5) – 3 tín chỉ - Điều kiện học trước: 71ENG410043 - Anh văn 4 (AV4) 
+71ENG610063 - Anh văn 6 (AV6) – 3 tín chỉ - Điều kiện học trước: 71ENG510053 - Anh văn 5 (AV5) 
+71ENG710073 - Anh văn 7 (AV7) – 3 tín chỉ - Điều kiện học trước: 71ENG610063 - Anh văn 6 (AV6)
+Khối kiến thức: I.3. Giáo dục thể chất
+71PEKC10062 - Cờ vua – 2 tín chỉ - Điều kiện học trước (không) 
+71PESW10042 - Bơi lội – 2 tín chỉ - Điều kiện học trước (không) 
+71PEYO10142 - Hatha yoga – 2 tín chỉ - Điều kiện học trước (không) 
+71PEKC10172 - Cờ vua nâng cao – 2 tín chỉ - Điều kiện học trước: 71PEKC10062 - Cờ vua 
+71PEBA10052 - Cầu lông – 2 tín chỉ - Điều kiện học trước (không) 
+71PEBB10032 - Bóng rổ – 2 tín chỉ - Điều kiện học trước (không) 
+71PEDA10102 - Khiêu vũ – 2 tín chỉ - Điều kiện học trước (không) 
+71PEFI10072 - Fitness – 2 tín chỉ - Điều kiện học trước (không) 
+71PEFU10082 - Futsal – 2 tín chỉ - Điều kiện học trước (không) 
+71PEGO10092 - Golf – 2 tín chỉ - Điều kiện học trước (không) 
+71PEMA10132 - Võ thuật – 2 tín chỉ - Điều kiện học trước (không) 
+71PEMT10152 - Marathon – 2 tín chỉ - Điều kiện học trước (không) 
+71PESC10112 - Leo núi thể thao – 2 tín chỉ - Điều kiện học trước (không) 
+71PESS10162 - Bắn súng thể thao – 2 tín chỉ - Điều kiện học trước (không) 
+71PETE10122 - Tennis – 2 tín chỉ - Điều kiện học trước (không) 
+71PETT10012 - Bóng bàn – 2 tín chỉ - Điều kiện học trước (không) 
+71PEVB10022 - Bóng chuyền – 2 tín chỉ - Điều kiện học trước (không)
+Khối kiến thức: I.4. Giáo dục quốc phòng và an ninh
+71NAD110013 - GDQP1: Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam – 3 tín chỉ - Điều kiện học trước (không) 
+71NAD210022 - GDQP2: Công tác quốc phòng và an ninh – 2 tín chỉ - Điều kiện học trước (không) 
+71NAD310032 - GDQP3: Quân sự chung – 2 tín chỉ - Điều kiện học trước (không) 
+71NAD410044 - GDQP4: Kỹ thuật chiến đấu bộ binh và chiến thuật – 4 tín chỉ - Điều kiện học trước (không)
+Khối kiến thức: II.  Kiến thức giáo dục chuyên nghiệp
+Khối kiến thức: II.1. Kiến thức cơ sở khối ngành
+71ITBS10103 - Nhập môn Công nghệ thông tin – 3 tín chỉ - Điều kiện học trước (không) 
+71ITBS10203 - Cơ sở lập trình – 3 tín chỉ - Điều kiện học trước (không) 
+71ITIS30103 - Cơ sở dữ liệu – 3 tín chỉ - Điều kiện học trước (không) 
+71ITNW30103 - Nhập môn Mạng máy tính và điện toán đám mây – 3 tín chỉ - Điều kiện học trước (không) 
+71ITSE30303 - Cấu trúc dữ liệu và giải thuật – 3 tín chỉ - Điều kiện học trước: 71ITBS10203 - Cơ sở lập trình 
+71ITMA10404 - Toán rời rạc – 4 tín chỉ - Điều kiện học trước: 71ITMA10104 - Toán cao cấp và ứng dụng 
+71ITSE30103 - Kỹ thuật lập trình – 3 tín chỉ - Điều kiện học trước: 71ITBS10203 - Cơ sở lập trình
+II.2. Kiến thức cơ sở ngành
+71ITSE30203 - Lập trình hướng đối tượng – 3 tín chỉ - Điều kiện học trước: 71ITBS10203 - Cơ sở lập trình 
+71ITDS30103 - Các nền tảng phát triển phần mềm – 3 tín chỉ - Điều kiện học trước: 71ITBS10103 - Nhập môn Công nghệ thông tin 
+71ITSE30503 - Lập trình ứng dụng Web – 3 tín chỉ - Điều kiện học trước: 71ITBS10203 - Cơ sở lập trình 
+71ITAI40103 - Nhập môn Trí tuệ nhân tạo – 3 tín chỉ - Điều kiện học trước: 71ITBS10203 - Cơ sở lập trình 
+71ITDS30203 - Nhập môn Phân tích Dữ liệu và Học sâu – 3 tín chỉ - Điều kiện học trước (không) 
+71ITDS40203 - Xác suất thống kê ứng dụng – 3 tín chỉ - Điều kiện học trước: 71ITMA10404 - Toán rời rạc 
+71ITSE30403 - Lập trình ứng dụng Java – 3 tín chỉ - Điều kiện học trước: 71ITSE30103 - Kỹ thuật lập trình 
+71NWSE40103 - Nhập môn hệ thống nhúng – 3 tín chỉ - Điều kiện học trước (không) 
+71ISBC30103 - Nhập môn Hệ thống thông tin – 3 tín chỉ - Điều kiện học trước: 71ITBS10103 - Nhập môn Công nghệ thông tin 
+71ITNW30303 - An ninh Mạng máy tính – 3 tín chỉ - Điều kiện học trước (không) 
+71ITIS30303 - Quản lý Dự án Công nghệ Thông tin – 3 tín chỉ - Điều kiện học trước (không) 
+71ITSE30903 - Thiết kế giao diện người dùng – 3 tín chỉ - Điều kiện học trước (không)
+Khối kiến thức: II.3.2. Kiến thức chuyên ngành hoặc chuyên sâu (phân nhánh định hướng nghề nghiệp)
+II.3.2-1. Chuyên ngành Công nghệ Phần mềm
+71ITSE41003 - Nhập môn Công nghệ phần mềm – 3 tín chỉ - Điều kiện học trước (không) 
+71ITSE41103 - Kỹ thuật lấy yêu cầu – 3 tín chỉ - Điều kiện học trước: 71ITSE41003 - Nhập môn Công nghệ phần mềm 
+71ITSE41203 - Kiểm thử phần mềm – 3 tín chỉ - Điều kiện học trước: 71ITSE41003 - Nhập môn Công nghệ phần mềm 
+71ITSE41303 - Phân tích và thiết kế hệ thống theo hướng đối tượng – 3 tín chỉ - Điều kiện học trước: 71ITSE41103 - Kỹ thuật lấy yêu cầu 
+71ITSE41403 - Lập trình Web nâng cao – 3 tín chỉ - Điều kiện học trước: 71ITSE30503 - Lập trình ứng dụng Web 
+71ITSE41503 - Quản lý dự án phần mềm – 3 tín chỉ - Điều kiện học trước: 71ITSE41003 - Nhập môn Công nghệ phần mềm
+II.3.2-2. Chuyên ngành Công nghệ Dữ liệu
+71ITDS40303 - Nhập môn Phân tích Dữ liệu lớn – 3 tín chỉ - Điều kiện học trước (không) 
+71ITAI40203 - Nhập môn học máy – 3 tín chỉ - Điều kiện học trước: 71ITDS40203 - Xác suất thống kê ứng dụng 
+71ITAI40303 - Các hệ hỗ trợ ra quyết định – 3 tín chỉ - Điều kiện học trước (không) 
+71ITDS40403 - Số hóa và quản trị thông tin số – 3 tín chỉ - Điều kiện học trước (không) 
+71ITAI40903 - Lập trình tính toán song song – 3 tín chỉ - Điều kiện học trước: 71ITSE30303 - Cấu trúc dữ liệu và giải thuật 
+71ITDS40503 - Mã hóa dữ liệu và chuỗi khối (Blockchain) – 3 tín chỉ - Điều kiện học trước: 71ITIS30103 - Cơ sở dữ liệu 
+II.3.2-3. Chuyên ngành Trí tuệ Nhân tạo
+71ITAI40803 - Nhập môn xử lý ảnh số – 3 tín chỉ - Điều kiện học trước (không) 
+71ITAI41203 - Học máy ứng dụng – 3 tín chỉ - Điều kiện học trước: 71ITDS40203 - Xác suất thống kê ứng dụng 
+71ITAI40503 - Trí tuệ nhân tạo ứng dụng – 3 tín chỉ - Điều kiện học trước: 71ITDS40203 - Xác suất thống kê ứng dụng 
+71ITAI40603 - Thị giác máy tính – 3 tín chỉ - Điều kiện học trước: 71ITAI41203 - Học máy ứng dụng 
+71ITAI40403 - Giới thiệu về học sâu – 3 tín chỉ - Điều kiện học trước: 71ITAI40503 - Trí tuệ nhân tạo ứng dụng 
+71ITAI41303 - Các công cụ và nền tảng cho trí tuệ nhân tạo – 3 tín chỉ - Điều kiện học trước (không) 

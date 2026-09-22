@@ -1,0 +1,9 @@
+# Chặn file chứa Key thật
+config.js
+
+# Chặn các file rác của trình soạn thảo và hệ thống
+.vscode/
+node_modules/
+.DS_Store
+.env
+server/.env

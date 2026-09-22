@@ -1,0 +1,96 @@
+KHUNG CHƯƠNG TRÌNH ĐÀO TẠO K30 CNTT - ĐẠI HỌC VĂN LANG
+Nguồn: file Excel Khung CTĐT K30 CNTT (2025-08-21)
+Tổng số học phần trong dữ liệu: 87
+
+QUY ƯỚC:
+- Điều kiện tiên quyết: phải đạt môn trước khi đăng ký môn hiện tại.
+- Điều kiện học trước: môn yêu cầu/nên hoàn thành trước theo khung CTĐT.
+- BB: bắt buộc; TC/TCxxx: tự chọn hoặc nhóm tự chọn.
+
+71LAWG10012 | Pháp luật đại cương | General Law | 2 TC | BB | Nhóm: Đại cương | Chuyên ngành: Chung | Năm 3 | HK 1 | Tiên quyết: Không | Học trước: Không
+71ENVH10012 | Môi trường và con người |  | 2 TC | BB | Nhóm: Đại cương | Chuyên ngành: Chung | Năm 3 | HK 1 | Tiên quyết: Không | Học trước: Không
+71ITMA10104 | Toán cao cấp và ứng dụng | Advanced Calculus | 4 TC | BB | Nhóm: Đại cương | Chuyên ngành: Chung | Năm 1 | HK 2 | Tiên quyết: Không | Học trước: Không
+71MATL10053 | Đại số tuyến tính và ứng dụng | Linear Algebra | 3 TC | BB | Nhóm: Đại cương | Chuyên ngành: Chung | Năm 1 | HK 3 | Tiên quyết: Không | Học trước: Không
+71SSK110023 | Kỹ năng công dân toàn cầu |  | 3 TC | BB | Nhóm: Đại cương | Chuyên ngành: Chung | Năm 1 | HK 1 | Tiên quyết: Không | Học trước: Không
+71POLP10013 | Triết học Mác-Lênin | Philosophy of Marxism and Leninism | 3 TC | BB | Nhóm: Lý luận chính trị | Chuyên ngành: Chung | Năm 1 | HK 2 | Tiên quyết: Không | Học trước: Không
+71POLE10022 | Kinh tế chính trị Mác-Lênin | Marxist – Leninist Political Economy | 2 TC | BB | Nhóm: Lý luận chính trị | Chuyên ngành: Chung | Năm 1 | HK 3 | Tiên quyết: Không | Học trước: [71POLP10013]Triết học Mác-Lênin
+71POLS10032 | Chủ nghĩa xã hội khoa học | Scientific Socialism | 2 TC | BB | Nhóm: Lý luận chính trị | Chuyên ngành: Chung | Năm 2 | HK 1 | Tiên quyết: Không | Học trước: [71POLP10013]Triết học Mác-Lênin
+71POLH10042 | Tư tưởng Hồ Chí Minh | Ho Chi Minh's Thought | 2 TC | BB | Nhóm: Lý luận chính trị | Chuyên ngành: Chung | Năm 2 | HK 2 | Tiên quyết: Không | Học trước: [71POLE10022]Kinh tế chính trị Mác-Lênin, [71POLS10032]Chủ nghĩa xã hội khoa học
+71POLC10052 | Lịch sử Đảng Cộng sản Việt Nam | History of Vietnamese Communist Party | 2 TC | BB | Nhóm: Lý luận chính trị | Chuyên ngành: Chung | Năm 2 | HK 3 | Tiên quyết: Không | Học trước: [71POLE10022]Kinh tế chính trị Mác-Lênin, [71POLS10032]Chủ nghĩa xã hội khoa học
+71ENG110013 | Anh văn 1 (AV1) | English 1 | 3 TC | BB | Nhóm: Ngoại ngữ | Chuyên ngành: Chung | Năm 1 | HK 1 | Tiên quyết: [71ENG010012]Anh văn dự bị (AV0) | Học trước: Không
+71ENG210023 | Anh văn 2 (AV2) | English 2 | 3 TC | BB | Nhóm: Ngoại ngữ | Chuyên ngành: Chung | Năm 1 | HK 2 | Tiên quyết: [71ENG110013]Anh văn 1 (AV1) | Học trước: Không
+71ENG310033 | Anh văn 3 (AV3) | English 3 | 3 TC | BB | Nhóm: Ngoại ngữ | Chuyên ngành: Chung | Năm 1 | HK 3 | Tiên quyết: [71ENG210023]Anh văn 2 (AV2) | Học trước: Không
+71ENG410043 | Anh văn 4 (AV4) | English 4 | 3 TC | BB | Nhóm: Ngoại ngữ | Chuyên ngành: Chung | Năm 2 | HK 1 | Tiên quyết: [71ENG310033]Anh văn 3 (AV3) | Học trước: Không
+71ENG510053 | Anh văn 5 (AV5) | English 5 | 3 TC | BB | Nhóm: Ngoại ngữ | Chuyên ngành: Chung | Năm 2 | HK 2 | Tiên quyết: [71ENG410043]Anh văn 4 (AV4) | Học trước: Không
+71ENG610063 | Anh văn 6 (AV6) | English 6 | 3 TC | BB | Nhóm: Ngoại ngữ | Chuyên ngành: Chung | Năm 2 | HK 3 | Tiên quyết: [71ENG510053]Anh văn 5 (AV5) | Học trước: Không
+71ENG710073 | Anh văn 7 (AV7) | English 7 | 3 TC | BB | Nhóm: Ngoại ngữ | Chuyên ngành: Chung | Năm 3 | HK 1 | Tiên quyết: [71ENG610063]Anh văn 6 (AV6) | Học trước: Không
+71PEKC10062 | Cờ vua |  | 2 TC | TC002 (2TC) | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 2 | Tiên quyết: Không | Học trước: Không
+71PESW10042 | Bơi lội |  | 2 TC | TC002 (2TC) | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 2 | Tiên quyết: Không | Học trước: Không
+71PEYO10142 | Hatha yoga |  | 2 TC | TC002 (2TC) | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 2 | Tiên quyết: Không | Học trước: Không
+71PEKC10172 | Cờ vua nâng cao |  | 2 TC | TC102 (2TC) | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 3 | Tiên quyết: Không | Học trước: [71PEKC10062]Cờ vua
+71PEBA10052 | Cầu lông |  | 2 TC | TC102 (2TC) | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 3 | Tiên quyết: Không | Học trước: Không
+71PEBB10032 | Bóng rổ |  | 2 TC | TC102 (2TC) | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 3 | Tiên quyết: Không | Học trước: Không
+71PEDA10102 | Khiêu vũ |  | 2 TC | TC102 (2TC) | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 3 | Tiên quyết: Không | Học trước: Không
+71PEFI10072 | Fitness |  | 2 TC | TC102 (2TC) | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 3 | Tiên quyết: Không | Học trước: Không
+71PEFU10082 | Futsal |  | 2 TC | TC102 (2TC) | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 3 | Tiên quyết: Không | Học trước: Không
+71PEGO10092 | Golf |  | 2 TC | TC102 (2TC) | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 3 | Tiên quyết: Không | Học trước: Không
+71PEMA10132 | Võ thuật |  | 2 TC | TC102 (2TC) | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 3 | Tiên quyết: Không | Học trước: Không
+71PEMT10152 | Marathon |  | 2 TC | TC102 (2TC) | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 3 | Tiên quyết: Không | Học trước: Không
+71PESC10112 | Leo núi thể thao |  | 2 TC | TC102 (2TC) | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 3 | Tiên quyết: Không | Học trước: Không
+71PESS10162 | Bắn súng thể thao |  | 2 TC | TC102 (2TC) | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 3 | Tiên quyết: Không | Học trước: Không
+71PETE10122 | Tennis |  | 2 TC | TC102 (2TC) | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 3 | Tiên quyết: Không | Học trước: Không
+71PETT10012 | Bóng bàn |  | 2 TC | TC102 (2TC) | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 3 | Tiên quyết: Không | Học trước: Không
+71PEVB10022 | Bóng chuyền |  | 2 TC | TC102 (2TC) | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 3 | Tiên quyết: Không | Học trước: Không
+71NAD110013 | GDQP1: Đường lối QP và AN của ĐCSVN |  | 3 TC | BBKTL | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 1 | Tiên quyết: Không | Học trước: Không
+71NAD210022 | GDQP2: Công tác quốc phòng và an ninh |  | 2 TC | BBKTL | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 1 | Tiên quyết: Không | Học trước: Không
+71NAD310032 | GDQP3: Quân sự chung |  | 2 TC | BBKTL | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 1 | Tiên quyết: Không | Học trước: Không
+71NAD410044 | GDQP4: Kỹ thuật chiến đấu bộ binh và chiến thuật |  | 4 TC | BBKTL | Nhóm: Giáo dục thể chất và giáo dục quốc phòng | Chuyên ngành: Chung | Năm 1 | HK 1 | Tiên quyết: Không | Học trước: Không
+71ITBS10103 | Nhập môn Công nghệ thông tin | Introduction to Information Technology | 3 TC | BB | Nhóm: Kiến thức cơ sở khối ngành | Chuyên ngành: Chung | Năm 1 | HK 1 | Tiên quyết: Không | Học trước: Không
+71ITBS10203 | Cơ sở lập trình | Programming Basics | 3 TC | BB | Nhóm: Kiến thức cơ sở khối ngành | Chuyên ngành: Chung | Năm 1 | HK 1 | Tiên quyết: Không | Học trước: Không
+71ITIS30103 | Cơ sở dữ liệu | Databases | 3 TC | BB | Nhóm: Kiến thức cơ sở khối ngành | Chuyên ngành: Chung | Năm 1 | HK 3 | Tiên quyết: Không | Học trước: Không
+71ITNW30103 | Nhập môn Mạng máy tính và điện toán đám mây | Introduction to Computer Networks and Cloud Computing | 3 TC | BB | Nhóm: Kiến thức cơ sở khối ngành | Chuyên ngành: Chung | Năm 1 | HK 2 | Tiên quyết: Không | Học trước: Không
+71ITSE30303 | Cấu trúc dữ liệu và giải thuật | Data Structures and Algorithms | 3 TC | BB | Nhóm: Kiến thức cơ sở khối ngành | Chuyên ngành: Chung | Năm 1 | HK 3 | Tiên quyết: Không | Học trước: [71ITBS10203]Cơ sở lập trình
+71ITMA10404 | Toán rời rạc | Discrete Mathematics | 4 TC | BB | Nhóm: Kiến thức cơ sở khối ngành | Chuyên ngành: Chung | Năm 2 | HK 1 | Tiên quyết: Không | Học trước: [71ITMA10104]Toán cao cấp và ứng dụng
+71ITSE30103 | Kỹ thuật lập trình | Programming Techniques | 3 TC | BB | Nhóm: Kiến thức cơ sở khối ngành | Chuyên ngành: Chung | Năm 1 | HK 2 | Tiên quyết: Không | Học trước: [71ITBS10203]Cơ sở lập trình
+71ITSE30203 | Lập trình hướng đối tượng | Object-Oriented Programming | 3 TC | BB | Nhóm: Kiến thức cơ sở ngành | Chuyên ngành: Chung | Năm 2 | HK 1 | Tiên quyết: Không | Học trước: [71ITBS10203]Cơ sở lập trình
+71ITDS30103 | Các nền tảng phát triển phần mềm | Software Development Platforms | 3 TC | BB | Nhóm: Kiến thức cơ sở ngành | Chuyên ngành: Chung | Năm 2 | HK 2 | Tiên quyết: Không | Học trước: [71ITBS10103]Nhập môn Công nghệ thông tin
+71ITSE30503 | Lập trình ứng dụng Web | Web Application Programming | 3 TC | BB | Nhóm: Kiến thức cơ sở ngành | Chuyên ngành: Chung | Năm 2 | HK 1 | Tiên quyết: Không | Học trước: [71ITBS10203]Cơ sở lập trình
+71ITAI40103 | Nhập môn Trí tuệ nhân tạo | Introduction to Artificial Intelligence | 3 TC | BB | Nhóm: Kiến thức cơ sở ngành | Chuyên ngành: Chung | Năm 2 | HK 3 | Tiên quyết: Không | Học trước: [71ITBS10203]Cơ sở lập trình
+71ITDS30203 | Nhập môn Phân tích Dữ liệu và Học sâu | Introduction to Data Analytics and Deep Learning | 3 TC | TC209 | Nhóm: Kiến thức cơ sở ngành | Chuyên ngành: Chung | Năm 2 | HK 3 | Tiên quyết: Không | Học trước: Không
+71ITDS40203 | Xác xuất thống kê ứng dụng | Applicable Probability and Statistics | 3 TC | TC209 | Nhóm: Kiến thức cơ sở ngành | Chuyên ngành: Chung | Năm 2 | HK 2 | Tiên quyết: Không | Học trước: [71ITMA10404]Toán rời rạc
+71ITSE30403 | Lập trình ứng dụng Java | Java Application Programming | 3 TC | TC209 | Nhóm: Kiến thức cơ sở ngành | Chuyên ngành: Chung | Năm 2 | HK 2 | Tiên quyết: Không | Học trước: [71ITSE30103]Kỹ thuật lập trình
+71NWSE40103 | Nhập môn hệ thống nhúng | Foundation of Embedded System | 3 TC | TC209 | Nhóm: Kiến thức cơ sở ngành | Chuyên ngành: Chung | Năm 2 | HK 3 | Tiên quyết: Không | Học trước: Không
+71ISBC30103 | Nhập môn Hệ thống thông tin | Introduction to Information Systems | 3 TC | TC209 | Nhóm: Kiến thức cơ sở ngành | Chuyên ngành: Chung | Năm 2 | HK 2 | Tiên quyết: Không | Học trước: [71ITBS10103]Nhập môn Công nghệ thông tin
+71ITNW30303 | An ninh Mạng máy tính | Network Security | 3 TC | TC209 | Nhóm: Kiến thức cơ sở ngành | Chuyên ngành: Chung | Năm 2 | HK 2 | Tiên quyết: Không | Học trước: Không
+71ITIS30303 | Quản lý Dự án Công nghệ Thông tin | IT Project Management | 3 TC | TC209 | Nhóm: Kiến thức cơ sở ngành | Chuyên ngành: Chung | Năm 2 | HK 2 | Tiên quyết: Không | Học trước: Không
+71ITSE30903 | Thiết kế giao diện người dùng | User Interface Design | 3 TC | TC209 | Nhóm: Kiến thức cơ sở ngành | Chuyên ngành: Chung | Năm 2 | HK 3 | Tiên quyết: Không | Học trước: Không
+71ITSE41003 | Nhập môn Công nghệ phần mềm | Introduction to Software Technology | 3 TC | BB | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Công nghệ Phần mềm | Năm 2 | HK 3 | Tiên quyết: Không | Học trước: Không
+71ITSE41103 | Kỹ thuật lấy yêu cầu | Requirements Engineering | 3 TC | BB | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Công nghệ Phần mềm | Năm 3 | HK 1 | Tiên quyết: Không | Học trước: [71ITSE41003]Nhập môn Công nghệ phần mềm
+71ITSE41203 | Kiểm thử phần mềm | Software Testing | 3 TC | BB | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Công nghệ Phần mềm | Năm 3 | HK 1 | Tiên quyết: Không | Học trước: [71ITSE41003]Nhập môn Công nghệ phần mềm
+71ITSE41303 | Phân tích và thiết kế hệ thống theo Hướng đối tượng | Object Oriented Analysis and Design | 3 TC | BB | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Công nghệ Phần mềm | Năm 3 | HK 2 | Tiên quyết: Không | Học trước: [71ITSE41103]Kỹ thuật lấy yêu cầu
+71ITSE41403 | Lập trình Web nâng cao | Advanced Web Programming | 3 TC | BB | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Công nghệ Phần mềm | Năm 3 | HK 2 | Tiên quyết: Không | Học trước: [71ITSE30503]Lập trình ứng dụng Web
+71ITSE41503 | Quản lý dự án phần mềm | Software Project Management | 3 TC | BB | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Công nghệ Phần mềm | Năm 3 | HK 2 | Tiên quyết: Không | Học trước: [71ITSE41003]Nhập môn Công nghệ phần mềm
+71ITDS40303 | Nhập môn Phân tích Dữ liệu lớn | Introduction to BigData Analytics | 3 TC | BB | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Công nghệ Dữ liệu | Năm 2 | HK 3 | Tiên quyết: Không | Học trước: Không
+71ITAI40203 | Nhập môn học máy | Introduction to Machine Learning | 3 TC | BB | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Công nghệ Dữ liệu | Năm 3 | HK 1 | Tiên quyết: Không | Học trước: [71ITDS40203]Xác xuất thống kê ứng dụng
+71ITAI40303 | Các hệ hỗ trợ ra quyết định | Decision Support Systems | 3 TC | BB | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Công nghệ Dữ liệu | Năm 3 | HK 1 | Tiên quyết: Không | Học trước: Không
+71ITDS40403 | Số hóa và quản trị thông tin số | Information Digitization and Management | 3 TC | BB | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Công nghệ Dữ liệu | Năm 3 | HK 2 | Tiên quyết: Không | Học trước: Không
+71ITAI40903 | Lập trình tính toán song song | Parallel Computational Programming | 3 TC | BB | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Công nghệ Dữ liệu | Năm 3 | HK 2 | Tiên quyết: Không | Học trước: [71ITSE30303]Cấu trúc dữ liệu và giải thuật
+71ITDS40503 | Mã hóa dữ liệu và chuỗi khối (Block chain) | Data Encryption and Security | 3 TC | BB | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Công nghệ Dữ liệu | Năm 3 | HK 2 | Tiên quyết: Không | Học trước: [71ITIS30103]Cơ sở dữ liệu
+71ITAI40803 | Nhập môn xử lý ảnh số | Introduction to Digital Image Processing | 3 TC | BB | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Trí tuệ Nhân tạo | Năm 2 | HK 3 | Tiên quyết: Không | Học trước: Không
+71ITAI41203 | Học máy ứng dụng | Applied Machine Learning | 3 TC | BB | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Trí tuệ Nhân tạo | Năm 3 | HK 1 | Tiên quyết: Không | Học trước: [71ITDS40203]Xác xuất thống kê ứng dụng
+71ITAI40503 | Trí tuệ nhân tạo ứng dụng | Applied Artificial Intelligence | 3 TC | BB | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Trí tuệ Nhân tạo | Năm 3 | HK 1 | Tiên quyết: Không | Học trước: [71ITDS40203]Xác xuất thống kê ứng dụng
+71ITAI40603 | Thị giác máy tính | Computer Vision | 3 TC | BB | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Trí tuệ Nhân tạo | Năm 3 | HK 2 | Tiên quyết: Không | Học trước: [71ITAI41203]Học máy và ứng dụng
+71ITAI40403 | Giới thiệu về học sâu | Introduction to Deep learning | 3 TC | BB | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Trí tuệ Nhân tạo | Năm 3 | HK 2 | Tiên quyết: Không | Học trước: [71ITAI40503]Trí tuệ nhân tạo ứng dụng
+71ITAI41303 | Các công cụ và nền tảng cho trí tuệ nhân tạo | Tools and Platforms for Artificial Intelligence | 3 TC | BB | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Trí tuệ Nhân tạo | Năm 3 | HK 2 | Tiên quyết: Không | Học trước: Không
+71ITIS30203 | Hệ Quản trị Cơ sở dữ liệu | Database Management System | 3 TC | TC309 | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Tự chọn Chuyên ngành | Năm 2 | HK 3 | Tiên quyết: Không | Học trước: [71ITIS30103]Cơ sở dữ liệu
+71ITSE30603 | Lập trình ứng dụng di động | Mobile Application Programming | 3 TC | TC309 | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Tự chọn Chuyên ngành | Năm 2 | HK 3 | Tiên quyết: Không | Học trước: [71ITBS10203]Cơ sở lập trình
+71ITSE30703 | Lập trình di động nâng cao | Advanced Mobile Programming | 3 TC | TC309 | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Tự chọn Chuyên ngành | Năm 3 | HK 1 | Tiên quyết: Không | Học trước: [71ITSE30603]Lập trình ứng dụng di động
+71ITSE31003 | Lập trình Python nâng cao | Advanced Python Programming | 3 TC | TC309 | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Tự chọn Chuyên ngành | Năm 3 | HK 1 | Tiên quyết: Không | Học trước: Không
+71ITNW30403 | Lập trình Hệ thống nhúng và Mạng kết nối vạn vật | Programming for Embedded Systems and Internet of Things | 3 TC | TC309 | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Tự chọn Chuyên ngành | Năm 3 | HK 1 | Tiên quyết: Không | Học trước: Không
+71ITAI51403 | Nhập môn tối ưu hóa | Introduction to Optimization | 3 TC | TC309 | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Tự chọn Chuyên ngành | Năm 3 | HK 1 | Tiên quyết: Không | Học trước: Không
+71ITSE30803 | Lập trình Java nâng cao | Advanced Java Programming | 3 TC | TC309 | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Tự chọn Chuyên ngành | Năm 3 | HK 2 | Tiên quyết: Không | Học trước: [71ITSE30403]Lập trình ứng dụng Java
+71ITSE41603 | Kiểm thử tự động | Automation Testing | 3 TC | TC309 | Nhóm: Kiến thức chuyên ngành hoặc chuyên sâu | Chuyên ngành: Tự chọn Chuyên ngành | Năm 3 | HK 2 | Tiên quyết: Không | Học trước: [71ITSE41203]Kiểm thử phần mềm
+71ITIN40304 | Đồ án thực tập | Internship Project | 4 TC | BB | Nhóm: Học kỳ doanh nghiệp | Chuyên ngành: Chung | Năm 3 | HK 3 | Tiên quyết: Theo quy định của Khoa | Học trước: Không
+71ITGR40206 | Đồ án Tốt nghiệp | Graduation Projects | 6 TC | TC406 | Nhóm: Khóa luận/đồ án tốt nghiệp; hoặc học phần thay thế KL/ĐA TN | Chuyên ngành: Chung | Năm 4 | HK 1 | Tiên quyết: HP Bắt buộc Chuyên ngành | Học trước: Không
+71ITIS30603 | Chuyên đề Tối ưu hóa máy tìm kiếm | Search Engine Optimization | 3 TC | TC406 | Nhóm: Khóa luận/đồ án tốt nghiệp; hoặc học phần thay thế KL/ĐA TN | Chuyên ngành: Tự chọn Chuyên ngành | Năm 4 | HK 1 | Tiên quyết: Không | Học trước: Không
+71ITIS30503 | Chuyên đề Thương Mại điện tử | E-Commerce | 3 TC | TC406 | Nhóm: Khóa luận/đồ án tốt nghiệp; hoặc học phần thay thế KL/ĐA TN | Chuyên ngành: Tự chọn Chuyên ngành | Năm 4 | HK 1 | Tiên quyết: Không | Học trước: Không
